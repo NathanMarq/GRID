@@ -10,18 +10,6 @@ html {
   font-size: 100%;
 }
 
-h1{
-  font-weight: 300;
-}
-
-h2{
-  font-weight: 300;
-}
-
-h3{
-  font-weight: 300;
-}
-
 .clearfix:before,
 .clearfix:after {
   content: " ";
